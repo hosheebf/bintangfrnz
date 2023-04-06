@@ -1,5 +1,5 @@
 <!--
-**bintangfrnz/bintangfrnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hosheebf/hosheebf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -32,5 +32,5 @@ I love to try somethin' new and experiment with new technologies. I've a great i
 [![Linkedin](https://img.shields.io/badge/-Bintang_Fajarianto-blue?style=flat&logo=Linkedin&logoColor=EEEEEE&link=https://www.linkedin.com/in/bintangfajarianto)](https://www.linkedin.com/in/bintangfajarianto)
 
 ## 📫 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bintangfrnz&count_private=true&hide=issues,stars&show_icons=true&theme=transparent)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfrnz&layout=compact&theme=transparent)](https://github.com/bintangfrnz/bintangfrnz)
+![Stats](https://github-readme-stats.vercel.app/api?username=hosheebf&count_private=true&hide=issues,stars&show_icons=true&theme=transparent)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hosheebf&layout=compact&theme=transparent)](https://github.com/hosheebf/hosheebf)
